@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useRef } from "react";
-const html2pdf = require('html2pdf.js');
+import html2pdf from 'html2pdf.js'
 
 
 function PrintaddBill() {
